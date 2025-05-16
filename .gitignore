@@ -1,0 +1,5 @@
+*.pem
+*.key
+*.env
+id_rsa
+node_modules/
